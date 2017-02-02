@@ -1,1 +1,0 @@
-# stajda yazılması istenen kodlar
